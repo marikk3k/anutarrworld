@@ -98,18 +98,19 @@ position: relative;
     background-color: #7dad94;
 }
 
-.video{
-
-    position:relative;
-    padding: 56.25
-
+.video {
+    position: relative;
+    z-index: 1;
+    padding-bottom: 56.25%;
 }
 
-.video_media{
-position: absolute;
-top:190px;
-left:900px;
+.video__media {
+    width: %;
+    height: auto;
 
+    position: absolute;
+    top: 190px;
+    left: 920px;
 }
 
 .header-down{
